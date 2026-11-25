@@ -1,0 +1,18 @@
+{
+  "payload": {
+    "project": "TechnologyCenter-Saged2003",
+    "status": "ACTIVE",
+    "notice_ar": "",
+    "expires_at": "2026-12-25T23:59:59Z",
+    "offline_grace_hours": 24,
+    "allowed_machine_ids": [
+      "*"
+    ],
+    "allowed_domains": [
+      "127.0.0.1",
+      "localhost"
+    ],
+    "issued_at": "2026-11-25T12:41:45Z"
+  },
+  "signature": "F++V6HLOcE/PxdceybW9YyIFxtWWlsWQBr0U85q2ZWhcfhqIpB/BS8icrxctAREkqNodKyGgNnMp0YMURq3SBg=="
+}
